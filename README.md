@@ -47,7 +47,7 @@ Axios, authentication, Context API and integrating external APIs.
 → [View repository](https://github.com/RemcoKuipers/Pokemon-card-collection-manager)
 ---
 
-### Aurora Overlay Framework 🏗️ Planning & Early Development
+### Pokémon Card Collection API 🚧 In Development
 
 A backend application for Pokémon card collectors who want to manage their
 physical collection online and access it from anywhere.
