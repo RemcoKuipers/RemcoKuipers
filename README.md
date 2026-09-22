@@ -32,61 +32,42 @@ IntelliJ IDEA · WebStorm · Postman · GitHub
 
 ## 🚀 Featured Projects
 
+### Pokémon Card Collection API 🚧 In Development
+
+A Spring Boot REST API for Pokémon card collectors who want to manage their physical collection online and access it from anywhere.
+
+The application is being developed as my backend graduation project and focuses on designing a structured REST API using Java, Spring Boot, PostgreSQL and JPA.
+
+I'm currently working on the domain model, database relationships, users and roles, DTOs, validation and REST endpoints. The backend will eventually connect to my previously completed Pokémon Card Collection Manager frontend.
+
+This project is helping me strengthen my understanding of backend architecture, relational data modelling and building maintainable REST APIs.
+
+→ [View repository](https://github.com/RemcoKuipers/Pokemon-Card-Collection)
+
+---
+
 ### Pokémon Card Collection Manager ✅ Completed
 
 Built as the frontend graduation project for my full-stack developer training.
 
-The application allows users to register and log in, search for Pokémon cards,
-view card details and manage their personal card collection.
+The application allows users to register and log in, search for Pokémon cards, view card details and manage their personal card collection.
 
-The project gave me hands-on experience with React, JavaScript, React Router,
-Axios, authentication, Context API and integrating external APIs.
+The project gave me hands-on experience with React, JavaScript, React Router, Axios, authentication, Context API and integrating external APIs.
 
 ✅ Successfully completed and passed as my frontend graduation project.
 
 → [View repository](https://github.com/RemcoKuipers/Pokemon-card-collection-manager)
----
-
-### Pokémon Card Collection API 🚧 In Development
-
-A backend application for Pokémon card collectors who want to manage their
-physical collection online and access it from anywhere.
-
-The application aims to provide collectors with an overview of their cards
-and their current market value, including price history. This helps users make
-more informed decisions when buying or selling cards and reduces the risk of
-overpaying or undervaluing their collection.
-
-Currently in development as my backend graduation project.
 
 ---
 
 ### Aurora Overlay Framework 🏗️ Early Development
 
-An open-source project aimed at making stream customization more accessible
-to both new and experienced streamers.
+An open-source project aimed at making stream customization more accessible to both new and experienced streamers.
 
-Aurora aims to remove the need for programming knowledge by providing an
-intuitive drag-and-drop environment for creating and configuring stream
-overlays.
+Aurora aims to remove the need for programming knowledge by providing an intuitive drag-and-drop environment for creating and configuring stream overlays.
 
-The project is currently in its early development stage. Most of the work so
-far has focused on product design, requirements, architecture, technology
-choices and development planning before moving further into implementation.
+The project is currently in its early development stage. Most of the work so far has focused on product design, requirements, architecture, technology choices and development planning before moving further into implementation.
 
-I'm using Aurora to gain experience with designing and building a larger
-software project from concept to implementation, using technologies such as
-TypeScript and React.
+I'm using Aurora to gain experience with designing and building a larger software project from concept to implementation, using technologies such as TypeScript and React.
 
 → [View repository](https://github.com/RemcoKuipers/Aurora-Overlay-Framework)
-
----
-
-## 🎯 Current Goal
-
-I'm currently focused on completing my full-stack development training and
-strengthening my backend skills through hands-on projects.
-
-My next goal is to start my career as a junior full-stack developer in a role
-where I can continue learning, contribute to real-world software and grow
-further as a backend-focused developer.
