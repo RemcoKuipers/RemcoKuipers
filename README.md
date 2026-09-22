@@ -16,14 +16,13 @@ problems and can provide value to the people using it.
 
 ---
 
-### 🛠️ Technologies I work with
+## 🛠️ Technologies I work with
 
-Java · PostgreSQL · SQL · JavaScript · React · HTML · CSS · Git
+Java · Spring Boot · REST APIs · PostgreSQL · SQL · JavaScript · React · HTML · CSS · Git
 
-### 📚 Currently learning
+## 📚 Currently learning
 
-Spring Boot · REST APIs · TypeScript
-
+JPA / Hibernate · JUnit · TypeScript
 ### 🔧 Tools
 
 IntelliJ IDEA · WebStorm · Postman · GitHub
