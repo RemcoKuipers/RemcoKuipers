@@ -55,7 +55,7 @@ The project gave me hands-on experience with React, JavaScript, React Router, Ax
 
 ✅ Successfully completed and passed as my frontend graduation project.
 
-→ [View repository](https://github.com/RemcoKuipers/Pokemon-card-collection-manager)
+→ [View repository](https://github.com/RemcoKuipers/pokemon-app)
 
 ---
 
