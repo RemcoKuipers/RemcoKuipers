@@ -37,7 +37,7 @@ A Spring Boot REST API for Pokémon card collectors who want to manage their phy
 
 The application is being developed as my backend graduation project and focuses on designing a structured REST API using Java, Spring Boot, PostgreSQL and JPA.
 
-I'm currently working on the domain model, database relationships, users and roles, DTOs, validation and REST endpoints. The backend will eventually connect to my previously completed Pokémon Card Collection Manager frontend.
+I'm currently developing the domain model and database relationships, including users and roles, as the foundation for the REST API.
 
 This project is helping me strengthen my understanding of backend architecture, relational data modelling and building maintainable REST APIs.
 
