@@ -1,72 +1,85 @@
 # Hi, I'm Remco 👋
 
-## Full-Stack Developer in Training | Backend Focus
+### Junior Software Developer | Java & Spring Boot | Backend Focus
 
-After more than 20 years in the hospitality industry, I've decided to turn
-my long-standing interest in technology into a new career in software
-development.
+After more than 20 years in the hospitality industry, including working as a head chef, I decided to turn my long standing interest in technology into a career in software development.
 
-I'm currently training as a full-stack developer, with a growing focus on
-backend development. I particularly enjoy the logical side of development:
-breaking down problems, understanding how systems fit together, and turning
-requirements into working solutions.
+In November 2025, I started the **Full Stack Developer Bootcamp at NOVI**. I successfully completed my frontend graduation project and submitted my backend graduation project for assessment in November 2026.
 
-I enjoy learning new technologies and building software that solves real
-problems and can provide value to the people using it.
+I particularly enjoy **backend development**: solving logical problems, designing REST APIs, working with databases, and making different systems work together.
+
+I'm now looking for my first professional junior developer role, where I can contribute to real projects, learn from experienced developers, and grow through feedback and code reviews.
 
 ---
 
-## 🛠️ Technologies I work with
+## 🛠️ Technical skills
 
-Java · Spring Boot · REST APIs · PostgreSQL · SQL · JavaScript · React · HTML · CSS · Git
-
-## 📚 Currently learning
-
-JPA / Hibernate · JUnit · TypeScript
-### 🔧 Tools
-
-IntelliJ IDEA · WebStorm · Postman · GitHub
-
----
-
-## 🚀 Featured Projects
-
-### Pokémon Card Collection API 🚧 In Development
-
-A Spring Boot REST API for Pokémon card collectors who want to manage their physical collection online and access it from anywhere.
-
-The application is being developed as my backend graduation project and focuses on designing a structured REST API using Java, Spring Boot, PostgreSQL and JPA.
-
-I'm currently developing the domain model and database relationships, including users and roles, as the foundation for the REST API.
-
-This project is helping me strengthen my understanding of backend architecture, relational data modelling and building maintainable REST APIs.
-
-→ [View repository](https://github.com/RemcoKuipers/Pokemon-Card-Collection)
+| Area | Technologies |
+| --- | --- |
+| **Backend** | Java, Spring Boot, Spring MVC, REST APIs, JPA / Hibernate |
+| **Databases** | PostgreSQL, SQL |
+| **Security** | Spring Security, Keycloak, OAuth2, JWT |
+| **Testing** | JUnit, Mockito, MockMvc, Postman |
+| **Frontend** | JavaScript, React, HTML, CSS |
+| **Tools** | Git, GitHub, Maven, IntelliJ IDEA, WebStorm |
 
 ---
 
-### Pokémon Card Collection Manager ✅ Completed
+## 🚀 Featured projects
 
-Built as the frontend graduation project for my full-stack developer training.
+### 🃏 [Pokémon Card Collection API](https://github.com/RemcoKuipers/Pokemon-Card-Collection)
 
-The application allows users to register and log in, search for Pokémon cards, view card details and manage their personal card collection.
+**Backend graduation project — submitted, awaiting assessment**
 
-The project gave me hands-on experience with React, JavaScript, React Router, Axios, authentication, Context API and integrating external APIs.
+**Java · Spring Boot · PostgreSQL · Spring Security · Keycloak · JUnit**
 
-✅ Successfully completed and passed as my frontend graduation project.
+A REST API for managing a personal Pokémon card collection, built as my NOVI backend graduation project.
 
-→ [View repository](https://github.com/RemcoKuipers/pokemon-app)
+- Manage collection entries, favorites, and user profiles through REST endpoints.
+- Secure access with **Keycloak, JWT, and role-based authorization**.
+- Integrate with an external Pokémon card API to retrieve card details and pricing information.
+- Upload and retrieve collection images.
+- Use **JPA / Hibernate** for relational data and **JUnit, Mockito, and MockMvc** for automated testing.
+- Provide administrator endpoints for user management.
+
+➡️ [View the repository and setup instructions](https://github.com/RemcoKuipers/Pokemon-Card-Collection)
+
+### 🎴 [Pokémon Card Collection Manager](https://github.com/RemcoKuipers/pokemon-app)
+
+**Frontend graduation project — successfully completed**
+
+**React · JavaScript · HTML · CSS**
+
+A frontend application for exploring Pokémon cards and managing a personal collection.
+
+This project helped me build practical experience with React, React Router, Axios, Context API, authentication flows, and external API integration.
+
+➡️ [View the repository](https://github.com/RemcoKuipers/pokemon-app)
+
+### 🎥 [Aurora Overlay Framework](https://github.com/RemcoKuipers/Aurora-Overlay-Framework)
+
+**Personal project — early development**
+
+**TypeScript · React**
+
+An open-source concept for creating and customizing stream overlays through an accessible drag-and-drop interface.
+
+I'm using this project to explore requirements, application architecture, and the process of developing a larger product from idea to implementation.
+
+➡️ [View the repository](https://github.com/RemcoKuipers/Aurora-Overlay-Framework)
 
 ---
 
-### Aurora Overlay Framework 🏗️ Early Development
+## 📚 What I'm working on next
 
-An open-source project aimed at making stream customization more accessible to both new and experienced streamers.
+- Deepening my knowledge of **backend architecture, testing, and maintainable code**.
+- Learning how professional development teams collaborate through **code reviews and shared workflows**.
+- Exploring **TypeScript and AI-assisted software development**.
 
-Aurora aims to remove the need for programming knowledge by providing an intuitive drag-and-drop environment for creating and configuring stream overlays.
+## 🎯 Career goals
 
-The project is currently in its early development stage. Most of the work so far has focused on product design, requirements, architecture, technology choices and development planning before moving further into implementation.
+I'm based in the **Veghel area, the Netherlands**, and I'm looking for a **junior backend or full-stack developer role**, preferably with a backend focus.
 
-I'm using Aurora to gain experience with designing and building a larger software project from concept to implementation, using technologies such as TypeScript and React.
+I bring professional experience in teamwork, responsibility, problem solving, and working under pressure.
 
-→ [View repository](https://github.com/RemcoKuipers/Aurora-Overlay-Framework)
+I'm excited to combine that experience with my growing technical skills — and to keep learning from the people around me.
